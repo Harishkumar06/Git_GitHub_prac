@@ -1,3 +1,3 @@
 # Git_GitHub_prac
-First git use
+First git use \n
 This is for tutorial purpose
